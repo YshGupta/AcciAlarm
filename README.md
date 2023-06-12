@@ -3,3 +3,4 @@ Complete Software Part of a system that senses accidents and alarms the nearest 
 
 Please Do Read the commets while trying to upload in the arduino.
 (Code written for Arduino Nano 33 iot , follows c++ syntax with arduino inbuilt libraries)
+The Folder Named With FourSq Contains all trial codes.
